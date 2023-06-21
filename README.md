@@ -6,7 +6,7 @@ This is a simple parser for Markdown list.
 
 # install
 
-`npm install md-to-github-issues`
+`npm install md-list-parser`
 
 # how to use (example)
 
