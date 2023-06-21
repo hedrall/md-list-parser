@@ -4,6 +4,10 @@ This is a simple parser for Markdown list.
 
 [live demo](https://hedrall.github.io/md-list-parser/)
 
+# install
+
+`npm install md-to-github-issues`
+
 # how to use (example)
 
 ```ts
